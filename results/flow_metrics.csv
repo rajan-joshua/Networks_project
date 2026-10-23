@@ -1,0 +1,4 @@
+Mode,Scenario,Class,TxPackets,RxPackets,LostPackets,ThroughputKbps,MeanDelayMs,MeanJitterMs,DeliveryRatio
+adaptive,nodefail_single,Emergency,145,136,0,11.4943,13.1602,0.0742613,93.7931
+adaptive,nodefail_single,Video,3236,3225,0,2482.11,29.1687,0.00963639,99.6601
+adaptive,nodefail_single,FileTransfer,10648,10648,0,15973.6,31.1578,0.21078,100

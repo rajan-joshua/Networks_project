@@ -1,0 +1,2 @@
+FileIndex,TargetBytes,RxBytes,StartTimeSec,CompletionTimeSec,DurationSec,Retransmissions,PathId,Completed,Resumed
+0,5000000,5000000,1.000,3.660,2.660,0,2,1,0

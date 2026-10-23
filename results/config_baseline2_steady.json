@@ -1,0 +1,20 @@
+{
+  "mode": "baseline2",
+  "scenario": "steady",
+  "simTime": 30,
+  "seed": 5,
+  "runIndex": 1,
+  "monitorIntervalSec": 0.5,
+  "emaAlpha": 0.3,
+  "hysteresisMargin": 0.15,
+  "holdTimeSec": 2,
+  "emergDeadlineMs": 150,
+  "videoDataRate": "2.5Mbps",
+  "fileMaxBytes": 5000000,
+  "congestionStartTime": 10,
+  "congestionEndTime": 20,
+  "congestionDataRate": "40Mbps",
+  "linkFailStartTime": 12,
+  "linkFailEndTime": 22,
+  "linkFailPathId": 0
+}

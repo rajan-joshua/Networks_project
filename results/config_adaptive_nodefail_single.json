@@ -1,0 +1,23 @@
+{
+  "mode": "adaptive",
+  "scenario": "nodefail_single",
+  "simTime": 15,
+  "seed": 1,
+  "runIndex": 0,
+  "emergTos": 184,
+  "videoTos": 136,
+  "fileTos": 40,
+  "fileCount": 1,
+  "fileSizesBytes": "5000000",
+  "monitorIntervalSec": 0.5,
+  "probeIntervalSec": 0.2,
+  "failMissCount": 3,
+  "recoverHitCount": 2,
+  "emaAlpha": 0.3,
+  "hysteresisMargin": 0.15,
+  "holdTimeSec": 2,
+  "emergDeadlineMs": 150,
+  "videoDataRate": "2.5Mbps",
+  "nodeFailStartTime": 10,
+  "nodeFailEndTime": 20
+}

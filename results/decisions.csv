@@ -1,0 +1,3 @@
+Time,Class,OldPath,NewPath,Reason,CostBefore,CostAfter
+10.90,Emergency,100Mbps,50Mbps,PATH_DOWN,1000000000.00,20.03
+11.00,Video,50Mbps,15Mbps,UtilityOptimization,0.60,0.46

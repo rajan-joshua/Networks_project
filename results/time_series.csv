@@ -1,0 +1,15 @@
+Time,EmergencyTputKbps,EmergencyDelayMs,VideoTputKbps,VideoDelayMs,FileTputKbps,ActiveEmergPath,ActiveVideoPath,ActiveFilePath
+1.0,5.12,10.14,1187.20,NaN,0.00,Path_0,Path_1,Path_2
+2.0,10.24,10.14,2508.80,NaN,11614.40,Path_0,Path_1,Path_2
+3.0,10.24,10.14,2497.60,NaN,17196.29,Path_0,Path_1,Path_2
+4.0,10.24,10.14,2497.60,NaN,11189.31,Path_0,Path_1,Path_2
+5.0,10.24,10.14,2497.60,NaN,0.00,Path_0,Path_1,Path_2
+6.0,10.24,10.14,2508.80,NaN,0.00,Path_0,Path_1,Path_2
+7.0,10.24,10.14,2497.60,NaN,0.00,Path_0,Path_1,Path_2
+8.0,10.24,10.14,2497.60,NaN,0.00,Path_0,Path_1,Path_2
+9.0,10.24,10.14,2497.60,NaN,0.00,Path_0,Path_1,Path_2
+10.0,10.24,10.14,2497.60,NaN,0.00,Path_0,Path_1,Path_2
+11.0,1.02,20.16,2508.80,NaN,0.00,Path_1,Path_1,Path_2
+12.0,10.24,20.16,2419.20,NaN,0.00,Path_1,Path_3,Path_2
+13.0,10.24,20.16,2497.60,NaN,0.00,Path_1,Path_3,Path_2
+14.0,10.24,20.16,2497.60,NaN,0.00,Path_1,Path_3,Path_2

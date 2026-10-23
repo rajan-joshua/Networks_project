@@ -1,0 +1,2 @@
+Mode,Scenario,EmergSent,EmergRx,EmergViolations,DeadlineMissPct,MeanDelayMs,MaxDelayMs,SwitchCount,FileDurationSec
+adaptive,nodefail_single,145,136,9,6.21,13.16,20.16,2,2.66
